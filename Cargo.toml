@@ -1,0 +1,9 @@
+[package]
+name = "qotdd"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eyre = "0.6.12"
+rand = "0.8.5"
+tokio = { version = "1.39.3", features = ["full"] }
