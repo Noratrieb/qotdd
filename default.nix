@@ -3,4 +3,7 @@
   pname = "quotdd";
   version = "0.1.0";
   cargoLock.lockFile = ./Cargo.lock;
+  meta = {
+    mainProgram = "quotdd";
+  };
 }
