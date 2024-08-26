@@ -23,6 +23,7 @@ async fn main() -> Result<()> {
     let quotes = [
         "Quickness is the essence of the war. ~ Sun Tsu",
         "Pretend inferiority and encourage his arrogance. ~ Sun Tsu",
+        "meow. ~ wffl",
     ];
 
     ensure!(!quotes.is_empty(), "Quotes are empty");
